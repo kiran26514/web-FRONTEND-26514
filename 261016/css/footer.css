@@ -1,0 +1,29 @@
+/* footer.css 26514 さんの担当 */
+.site_footer__box {
+    padding: 40px 16px;
+    background: #444444;
+    color: #ccc;
+    text-align: center;
+}
+
+.site_footer__title {
+    margin: 0 0 8px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.site_footer__list {
+    margin: 0 0 16px;
+    padding: 0;
+    list-style: none;
+    font-size: 14px;
+}
+
+.site_footer__btn {
+    color: #fff;
+}
+
+.site_footer__text {
+    margin: 24px 0 0;
+    font-size: 12px;
+}
