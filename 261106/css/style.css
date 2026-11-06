@@ -79,20 +79,20 @@ body {
   padding: 40px 16px;
 }
 
-.newsList {
+.news__list {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.newsList-item {
+.news__item {
   display: flex;
   gap: 16px;
   padding: 12px 0;
   border-bottom: 1px dashed #d8c7ae;
 }
 
-.date {
+.news__date {
   color: #8a7560;
   font-size: 14px;
 }
